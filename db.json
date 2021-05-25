@@ -130,5 +130,22 @@
         "duration": 1463
       }
     }
+  ],
+  "posts": [
+    {
+      "title": "Post One",
+      "body": "Body of post one",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "Body of post 2"
+    },
+    {
+      "title": "Post 3",
+      "body": "Body 3",
+      "id": 3
+    }
   ]
 }
